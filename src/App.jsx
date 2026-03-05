@@ -270,7 +270,7 @@ const HANDBOOK_SECTIONS = [
     id: "hb_contacts",
     title: "Key Contacts",
     icon: "📞",
-    content: `**Managing Director:** Muhsin Ahmed\nPhone: 1300 395 852\nEmail: contact@vitalitycommunitycare.com.au\nAddress: 84 Hotham Street, Preston, VIC 3072\n\n**Clinical Key Worker:** Abdifatah Abass (AJ)\nEmail: abdifatah@vitalitycommunitycare.com.au\nMobile: 0432 014 162\n\n**Case Manager:** Contact your supervisor for assignment\n\n**Nurse / Supervisor / Coordinator / Team Leader:** To be advised on commencement`
+    content: `**Managing Director:** Muhsin Ahmed\nPhone: 1300 395 852\nEmail: \nAddress: \n\n**Clinical Key Worker:**\nEmail: Example.com.au\nMobile: 0400000001\n\n**Case Manager:** Contact your supervisor for assignment\n\n**Nurse / Supervisor / Coordinator / Team Leader:** To be advised on commencement`
   },
 ];
 
