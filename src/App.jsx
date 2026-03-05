@@ -504,7 +504,7 @@ export default function InductionDashboard() {
               ))}
               <div style={{ marginTop: 24, padding: "16px 20px", background: "#f0f9ff", borderRadius: 12, border: "1px solid #bae6fd" }}>
                 <div style={{ fontWeight: 600, color: "#0c4a6e", marginBottom: 4, fontSize: 14 }}>📞 Key Contact – Clinical Key Worker</div>
-                <div style={{ fontSize: 13, color: "#334155" }}>Abdifatah Abass (AJ) | abdifatah@vitalitycommunitycare.com.au | 0432 014 162</div>
+                <div style={{ fontSize: 13, color: "#334155" }}> Example() | example.com.au | 04000000001</div>
               </div>
             </div>
           </div>
